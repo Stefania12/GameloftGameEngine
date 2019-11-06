@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+  Fire.cpp
+  Globals.cpp
+  Light.cpp
+  Material.cpp
+  Model.cpp
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(5,20): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(15,8): warning C4101:  'found': unreferenced local variable
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(54,20): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(110,11): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(162,20): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(163,20): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+  ModelResource.cpp
+  NewTrainingFramework.cpp
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(164,23): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\NewTrainingFramework.cpp(48,21): warning C4305:  '+=': truncation from 'double' to 'float'
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\NewTrainingFramework.cpp(64,41): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\NewTrainingFramework.cpp(69,21): warning C4244:  '=': conversion from 'LONG' to 'float', possible loss of data
+  ResourceManager.cpp
+  SceneManager.cpp
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\NewTrainingFramework.cpp(70,21): warning C4244:  '=': conversion from 'LONG' to 'float', possible loss of data
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneManager.cpp(129,20): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneManager.cpp(135,20): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneManager.cpp(139,21): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneManager.cpp(141,21): warning C4018:  '<': signed/unsigned mismatch
+  SceneObject.cpp
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneManager.cpp(143,21): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneObject.cpp(205,20): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneObject.cpp(234,20): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneObject.cpp(251,20): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneObject.cpp(268,20): warning C4018:  '<': signed/unsigned mismatch
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneObject.cpp(305,14): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneObject.cpp(330,20): warning C4018:  '<': signed/unsigned mismatch
+  Shader.cpp
+  ShaderResource.cpp
+  Camera.cpp
+  SkyBox.cpp
+  Terrain.cpp
+  Texture.cpp
+  TextureResource.cpp
+E:\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneObject.cpp(438,20): warning C4018:  '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2021 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NewTrainingFramework.vcxproj -> E:\workshop12\NewTrainingFramework_2015\\BIN-ATI\NewTrainingFramework.exe

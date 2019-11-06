@@ -1,0 +1,13 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  TGA.cpp
+  Math.cpp
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\Utilities\Math.cpp(10,13): warning C4244:  'return': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\Utilities\Math.cpp(104,13): warning C4244:  'return': conversion from 'double' to 'GLfloat', possible loss of data
+  esUtil_win.cpp
+  esUtil.cpp
+  esShader.cpp
+  Generating Code...
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\Utilities\Math.cpp(215,13): warning C4244:  'return': conversion from 'double' to 'GLfloat', possible loss of data
+  Utilities.vcxproj -> D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\\BIN-Nvidia\Utilities.lib

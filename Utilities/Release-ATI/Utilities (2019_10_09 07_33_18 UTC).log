@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  esShader.cpp
+  esUtil.cpp
+  esUtil_win.cpp
+  Math.cpp
+E:\workshop12\NewTrainingFramework_2015\Utilities\Math.cpp(10,13): warning C4244:  'return': conversion from 'double' to 'GLfloat', possible loss of data
+E:\workshop12\NewTrainingFramework_2015\Utilities\Math.cpp(104,13): warning C4244:  'return': conversion from 'double' to 'GLfloat', possible loss of data
+  TGA.cpp
+E:\workshop12\NewTrainingFramework_2015\Utilities\Math.cpp(208,13): warning C4244:  'return': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1445,5): warning MSB8012: TargetPath(E:\workshop12\NewTrainingFramework_2015\\BIN-ATI\Utilities.lib) does not match the Library's OutputFile property value (E:\workshop12\NewTrainingFramework_2015\BIN-ATI\UtilitiesR.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1447,5): warning MSB8012: TargetName(Utilities) does not match the Library's OutputFile property value (UtilitiesR). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Utilities.vcxproj -> E:\workshop12\NewTrainingFramework_2015\\BIN-ATI\Utilities.lib

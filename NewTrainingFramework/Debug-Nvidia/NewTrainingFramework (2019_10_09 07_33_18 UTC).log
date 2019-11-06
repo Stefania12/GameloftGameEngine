@@ -1,0 +1,49 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  Trajectory.cpp
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Trajectory.h(28,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  TextureResource.cpp
+  Texture.cpp
+  Terrain.cpp
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Trajectory.cpp(28,47): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+  SkyBox.cpp
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Trajectory.h(28,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Camera.cpp
+  ShaderResource.cpp
+  Shader.cpp
+  SceneObject.cpp
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Trajectory.h(28,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Trajectory.h(28,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneObject.cpp(287,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneObject.cpp(340,60): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  SceneManager.cpp
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneObject.cpp(401,14): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Trajectory.h(28,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneManager.cpp(151,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneManager.cpp(155,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneManager.cpp(157,21): warning C4018:  '<': signed/unsigned mismatch
+  ResourceManager.cpp
+  NewTrainingFramework.cpp
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\SceneManager.cpp(159,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\NewTrainingFramework.cpp(69,21): warning C4244:  '=': conversion from 'LONG' to 'float', possible loss of data
+  ModelResource.cpp
+  Model.cpp
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\NewTrainingFramework.cpp(70,21): warning C4244:  '=': conversion from 'LONG' to 'float', possible loss of data
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(5,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(15,8): warning C4101:  'found': unreferenced local variable
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(54,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(110,11): warning C4018:  '<': signed/unsigned mismatch
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(162,20): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(163,20): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Material.cpp
+  Light.cpp
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Model.cpp(164,23): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Globals.cpp
+  Fire.cpp
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Trajectory.h(28,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\NewTrainingFramework\Trajectory.h(28,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+Fire.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+pugixml.lib(pugixml.obj) : warning LNK4099: PDB '㧀嚪䁰嚨΂' was not found with 'pugixml.lib(pugixml.obj)' or at '㧀嚪䁰嚨΂'; linking object as if no debug info
+  NewTrainingFramework.vcxproj -> D:\Chestii de salvat\workshop versiuni\workshop12\NewTrainingFramework_2015\\BIN-Nvidia\NewTrainingFramework.exe
